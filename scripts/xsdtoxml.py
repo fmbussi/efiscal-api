@@ -66,7 +66,7 @@ xml_string = etree.tostring(xml_root, pretty_print=True, xml_declaration=True, e
 # Reemplazar doble espacio con tabulación
 xml_string = xml_string.replace("  ", "\t")
 
-# Guardar el XML corregido con tabulaciones
+# Guardar el XML
 with open(output_xml_path, "w", encoding="utf-8") as f:
     f.write(xml_string)
 
