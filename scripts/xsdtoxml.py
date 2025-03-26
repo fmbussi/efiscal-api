@@ -1,8 +1,8 @@
 from lxml import etree
 
 # Ruta de los archivos
-xsd_path = "../xsd/eCF32.xsd"
-output_xml_path = "../xml/eCF32.xml"
+xsd_path = "../xsd/eCF47.xsd"
+output_xml_path = "../xml/eCF47.xml"
 
 def build_element(element_definitions, element_name):
     """
