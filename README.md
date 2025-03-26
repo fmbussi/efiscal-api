@@ -5,14 +5,14 @@
 ![](https://github.com/fmbussi/efiscal-api/actions/workflows/3-open-a-pull-request.yml/badge.svg)
 ![](https://github.com/fmbussi/efiscal-api/actions/workflows/4-merge-your-pull-request.yml/badge.svg)
 
-## Hola!!!
+## Hi!!!
 
-El objetivo de este repositorio es reunir scripts funcionales en distintos lenguajes de programación que ayuden a resolver aspectos clave del procesamiento de comprobantes fiscales electrónicos (facturación electrónica en República Dominicana), validación de firmas digitales, consumo de APIs fiscales y manejo de errores comunes.
+The goal of this repository is to gather functional scripts in various programming languages to help solve key aspects of electronic fiscal receipt processing (electronic invoicing in the Dominican Republic), digital signature validation, consumption of fiscal APIs, and handling common errors.
 
-### Características
+### Features
 
-1. Implementaciones unitarias en PHP, Python, JavaScript, etc.
-2. Ejemplos de generación y validación de XML para e-CF.
-3. Solución de problemas comunes y optimización de integración.
+1. Standalone implementations in PHP, Python, Java, etc.
+2. Examples of XML generation and validation for e-CF.
+3. Common issue resolution and integration optimization.
 
-**Contribuciones y mejoras son bienvenidas.**
+**Contributions and improvements are welcome.**
